@@ -1,0 +1,14 @@
+body {
+    margin: 50px;
+    padding: 0;
+    display: flex;
+    background-color: #ccc;
+  }  
+  .verContainer {
+    flex-direction: column;
+  }
+  #inputCanvas {
+    border: 1px solid #ccc;
+    background-color: gray;
+    width: 600px;
+  }
